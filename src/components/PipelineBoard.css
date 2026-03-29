@@ -1,0 +1,30 @@
+.pipeline{
+display:flex;
+gap:20px;
+margin-top:30px;
+}
+
+.pipeline-column{
+flex:1;
+background:#0f172a;
+padding:15px;
+border-radius:10px;
+}
+
+.pipeline-card{
+background:#1e293b;
+padding:10px;
+border-radius:8px;
+margin-bottom:10px;
+}
+
+.pipeline-buttons button{
+margin-top:5px;
+margin-right:5px;
+padding:4px 8px;
+border:none;
+border-radius:6px;
+background:#6366f1;
+color:white;
+cursor:pointer;
+}

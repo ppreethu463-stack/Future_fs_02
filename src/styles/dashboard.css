@@ -1,0 +1,38 @@
+/* Main background */
+body {
+  background-color: #f4f7fc;
+  font-family: Arial, sans-serif;
+}
+
+/* Topbar */
+.topbar {
+  background: #1e293b;
+  color: white;
+  padding: 15px;
+}
+
+/* Sidebar */
+.sidebar {
+  background: #0f172a;
+  color: white;
+  height: 100vh;
+}
+
+/* Cards */
+.status-card {
+  background: white;
+  border-radius: 10px;
+  padding: 20px;
+  box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+}
+
+/* Highlight colors */
+.primary {
+  color: #3b82f6;
+}
+.success {
+  color: #22c55e;
+}
+.warning {
+  color: #f59e0b;
+}
